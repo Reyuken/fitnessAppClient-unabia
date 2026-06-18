@@ -21,15 +21,7 @@ export default defineConfig({
         target: 'http://localhost:4000',
         changeOrigin: true,
       },
-      '/products': {
-        target: 'http://localhost:4000',
-        changeOrigin: true,
-      },
-      '/cart': {
-        target: 'http://localhost:4000',
-        changeOrigin: true,
-      },
-      '/orders': {
+      '/workouts': {
         target: 'http://localhost:4000',
         changeOrigin: true,
       },

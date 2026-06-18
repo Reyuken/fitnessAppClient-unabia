@@ -5,6 +5,12 @@ FitForge allows users to manage workouts with authentication, CRUD operations, a
 
 ---
 ## ⚙️ Features
+👤 Dummy Customer
+- Email: user@mail.com
+- Password: password123
+
+---
+## ⚙️ Features
 
 ---
 
