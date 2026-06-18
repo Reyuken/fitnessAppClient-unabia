@@ -80,7 +80,6 @@ FitForge allows users to manage workouts with authentication, CRUD operations, a
 ---
 
 ## 📌 Notes
-- Capstone 3 demonstration project
 - Built for educational purposes
 - Focused on CRUD, authentication, and UI/UX design
 - Backend deployed on Render
